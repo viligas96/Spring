@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring.iml" filepath="$PROJECT_DIR$/.idea/Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxz-security-master/cxz-security-master/cxz-admin/cxz-admin.iml" filepath="$PROJECT_DIR$/cxz-security-master/cxz-security-master/cxz-admin/cxz-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxz-security-master/cxz-security-master/cxz-api/cxz-api.iml" filepath="$PROJECT_DIR$/cxz-security-master/cxz-security-master/cxz-api/cxz-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxz-security-master/cxz-security-master/cxz-common/cxz-common.iml" filepath="$PROJECT_DIR$/cxz-security-master/cxz-security-master/cxz-common/cxz-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxz-security-master/cxz-security-master/cxz-dynamic-datasource/cxz-dynamic-datasource.iml" filepath="$PROJECT_DIR$/cxz-security-master/cxz-security-master/cxz-dynamic-datasource/cxz-dynamic-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxz-security-master/cxz-security-master/cxz-generator/cxz-generator.iml" filepath="$PROJECT_DIR$/cxz-security-master/cxz-security-master/cxz-generator/cxz-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cxz-security-master/cxz-security-master/cxz-security.iml" filepath="$PROJECT_DIR$/cxz-security-master/cxz-security-master/cxz-security.iml" />
+    </modules>
+  </component>
+</project>

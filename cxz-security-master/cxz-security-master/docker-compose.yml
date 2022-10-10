@@ -1,0 +1,14 @@
+version: '2'
+services:
+  cxz-admin:
+    image: cxz/cxz-admin
+    ports:
+    - "8080:8080"
+    environment:
+    - spring.profiles.active=dev
+  cxz-api:
+    image: cxz/cxz-api
+    ports:
+    - "8081:8081"
+    environment:
+    - spring.profiles.active=dev

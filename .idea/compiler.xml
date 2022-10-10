@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cxz-dynamic-datasource" />
+        <module name="cxz-api" />
+        <module name="cxz-common" />
+        <module name="cxz-generator" />
+        <module name="cxz-admin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cxz-admin" target="1.5" />
+      <module name="cxz-api" target="1.5" />
+      <module name="cxz-common" target="1.5" />
+      <module name="cxz-dynamic-datasource" target="1.5" />
+      <module name="cxz-generator" target="1.5" />
+      <module name="cxz-security" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
